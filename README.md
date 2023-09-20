@@ -1,0 +1,1 @@
+# SpeCs: Spectrogram correlation stacking
